@@ -1,0 +1,30 @@
+Start testing: Apr 08 07:12 EEST
+----------------------------------------------------------
+1/1 Testing: B1Test.ShowMethod
+1/1 Test: B1Test.ShowMethod
+Command: "/Users/yura_kulakovskyi/Documents/C++/OOP/PR3/PR3_6/cmake-build-debug/PR3_6_tests" "--gtest_filter=B1Test.ShowMethod" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/OOP/PR3/PR3_6/cmake-build-debug
+"B1Test.ShowMethod" start time: Apr 08 07:12 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/OOP/PR3/PR3_6/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = B1Test.ShowMethod
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from B1Test
+[ RUN      ] B1Test.ShowMethod
+[       OK ] B1Test.ShowMethod (0 ms)
+[----------] 1 test from B1Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"B1Test.ShowMethod" end time: Apr 08 07:12 EEST
+"B1Test.ShowMethod" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 08 07:12 EEST

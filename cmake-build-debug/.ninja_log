@@ -1,0 +1,25 @@
+# ninja log v6
+4	688	1744085532839361331	CMakeFiles/PR3_6.dir/classes/D1.cpp.o	677d01c01f3f88d5
+3	691	1744085532838460079	CMakeFiles/PR3_6.dir/classes/B1.cpp.o	2da604522fb99eca
+4	692	1744085532838951190	CMakeFiles/PR3_6.dir/classes/B2.cpp.o	d2ea067d9a52a6d5
+3	847	1744085532837899148	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	5cee281eb361a1a9
+693	1107	1744085533526921191	CMakeFiles/PR3_6.dir/main.cpp.o	8db6638ebb6cb6be
+691	1144	1744085533525797362	CMakeFiles/PR3_6.dir/classes/D3.cpp.o	25b75efbe344510a
+690	1160	1744085533524227156	CMakeFiles/PR3_6.dir/classes/D2.cpp.o	72fcae539a602853
+847	1260	1744085533681369264	CMakeFiles/PR3_6_tests.dir/classes/B1.cpp.o	b424e8c9d5f51ef6
+3	1417	1744085532837757219	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	eb963424ada0a0d2
+1107	1540	1744085533941272432	CMakeFiles/PR3_6_tests.dir/classes/B2.cpp.o	bfe8636f08bab4d8
+1144	1585	1744085533977660910	CMakeFiles/PR3_6_tests.dir/classes/D1.cpp.o	6024c80b29e55c70
+1160	1592	1744085533994206250	CMakeFiles/PR3_6_tests.dir/classes/D2.cpp.o	6d3521fc7b111c79
+1260	1698	1744085534093952084	CMakeFiles/PR3_6_tests.dir/classes/D3.cpp.o	da536d59e14d51e4
+1585	1727	1744085534417927652	PR3_6	59ff3cffca54fe83
+1417	1965	1744085534250817406	CMakeFiles/PR3_6_tests.dir/tests/tests.cpp.o	4c0b87bc7345b985
+1540	2082	1744085534373699266	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	552cb5aafb3fe685
+2	2141	1744085532837293611	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	89079b8defcba5be
+2141	2180	1744085534973960561	lib/libgtest.a	b51b69e6de22023b
+2180	2200	1744085535012567447	lib/libgtest_main.a	ddd85a377c936fa9
+2180	2205	1744085535012364472	lib/libgmock.a	c8c98fe986cb389b
+2205	2226	1744085535037605565	lib/libgmock_main.a	c7b38932d055d06e
+2200	3169	1744085535998496917	PR3_6_tests	9e2203fc8b3e5091
+2200	3169	1744085535998496917	PR3_6_tests[1]_tests.cmake	9e2203fc8b3e5091
+2200	3169	1744085535998496917	/Users/yura_kulakovskyi/Documents/C++/OOP/PR3/PR3_6/cmake-build-debug/PR3_6_tests[1]_tests.cmake	9e2203fc8b3e5091
